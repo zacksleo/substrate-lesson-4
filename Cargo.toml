@@ -1,0 +1,7 @@
+[workspace]
+
+members = [
+    "generic-area",
+    "option-sum",
+    "traffic-light"
+]
